@@ -39,3 +39,6 @@ jobs:
 
       - name: Build frontend for production
         run: npm run build
+
+      - name: Build
+        run: npm run build
